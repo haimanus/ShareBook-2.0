@@ -1,0 +1,6 @@
+
+-- Need to have ability to expose to the client all Dynamic Menu Datasource IDs from a rule
+
+From the support request:
+We use the datasource primarily for our rules. When create a new client, all the IDs change. so if i export a rule group from one client to another, the rule will show a RED background to the number since that ID doesnt exist in the datasource.
+Is there an easy way to validate (from c# code in the backend) that all rules have IDs that match their datasource so i can easily check this when creating a new client?

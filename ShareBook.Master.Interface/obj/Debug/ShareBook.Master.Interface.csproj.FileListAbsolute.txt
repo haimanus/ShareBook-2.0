@@ -1,0 +1,10 @@
+E:\MANOJ\Share Book 2.0\lab1\ShareBook.Master.Interface\bin\Debug\ShareBook.Master.Interface.dll
+E:\MANOJ\Share Book 2.0\lab1\ShareBook.Master.Interface\bin\Debug\ShareBook.Master.Interface.pdb
+E:\MANOJ\Share Book 2.0\lab1\ShareBook.Master.Interface\obj\Debug\ShareBook.Master.Interface.csprojAssemblyReference.cache
+E:\MANOJ\Share Book 2.0\lab1\ShareBook.Master.Interface\obj\Debug\ShareBook.Master.Interface.dll
+E:\MANOJ\Share Book 2.0\lab1\ShareBook.Master.Interface\obj\Debug\ShareBook.Master.Interface.pdb
+E:\MANOJ\Share Book 2.0\LAB 2\ShareBook.Master.Interface\bin\Debug\ShareBook.Master.Interface.dll
+E:\MANOJ\Share Book 2.0\LAB 2\ShareBook.Master.Interface\bin\Debug\ShareBook.Master.Interface.pdb
+E:\MANOJ\Share Book 2.0\LAB 2\ShareBook.Master.Interface\obj\Debug\ShareBook.Master.Interface.dll
+E:\MANOJ\Share Book 2.0\LAB 2\ShareBook.Master.Interface\obj\Debug\ShareBook.Master.Interface.pdb
+E:\MANOJ\Share Book 2.0\LAB 2\ShareBook.Master.Interface\obj\Debug\ShareBook.Master.Interface.csprojAssemblyReference.cache
