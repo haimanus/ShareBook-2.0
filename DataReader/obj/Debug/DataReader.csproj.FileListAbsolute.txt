@@ -1,0 +1,23 @@
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\bin\Debug\DataReader.exe.config
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\bin\Debug\DataReader.exe
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\bin\Debug\DataReader.pdb
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\bin\Debug\Newtonsoft.Json.dll
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\bin\Debug\Newtonsoft.Json.xml
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\obj\Debug\DataReader.Form1.resources
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\obj\Debug\DataReader.Properties.Resources.resources
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\obj\Debug\DataReader.csproj.GenerateResource.Cache
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\obj\Debug\DataReader.exe
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\obj\Debug\DataReader.pdb
+E:\MANOJ\Share Book 2.0\DataReader\DataReader\obj\Debug\DataReader.csprojResolveAssemblyReference.cache
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\bin\Debug\DataReader.exe.config
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\bin\Debug\DataReader.exe
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\bin\Debug\DataReader.pdb
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\bin\Debug\Newtonsoft.Json.dll
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\bin\Debug\Newtonsoft.Json.xml
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\obj\Debug\DataReader.csprojAssemblyReference.cache
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\obj\Debug\DataReader.Form1.resources
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\obj\Debug\DataReader.Properties.Resources.resources
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\obj\Debug\DataReader.csproj.GenerateResource.cache
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\obj\Debug\DataReader.csproj.CopyComplete
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\obj\Debug\DataReader.exe
+E:\MANOJ\Share Book 2.0\LAB 2\DataReader\obj\Debug\DataReader.pdb
